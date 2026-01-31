@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# Customer Churn Mitigation & Risk Analytics
 This project uses Machine Learning to predict which customers are likely to leave a telecommunications provider. By identifying at-risk customers, businesses can take proactive steps to improve retention.
 
 ##  Project Overview
